@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/vilmarbatista/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-vilmar-orange"></a>
-	<a href="https://github.com/vilmarbatista/gobarber/blob/master/README.md"><img alt="GitHub" src="https://img.shields.io/badge/license-MIT-orange"></a>
+	<a href="https://github.com/vilmarsitiodigital/gobarber/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/badge/license-MIT-orange"></a>
 </p>
 
 <img alt="Mockup" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1614283587/Development/GoBarber/mockup_ocggit_wukilg.png">
