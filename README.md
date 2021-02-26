@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/vilmarbatista/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-vilmar-orange"></a>
-	<a href="https://github.com/vilmarsitiodigital/gobarber/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/badge/license-MIT-orange"></a>
+	<a href="https://github.com/vilmarsitiodigital/gobarber/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/gobarber/gobarber-api?color=%23FF9000"></a>
 </p>
 
 <img alt="Mockup" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1614283587/Development/GoBarber/mockup_ocggit_wukilg.png">
@@ -15,9 +15,9 @@ To make this project more organized, I moved the applications **(rest api, web c
 
 Here are the links to them
 
-- [REST API](https://github.com/vilmarbatista/gobarber-api)
-- [Web client](https://github.com/vilmarbatista/gobarber-web)
-- [Mobile client](https://github.com/vilmarbatista/gobarber-mobile)
+- [REST API](https://github.com/vilmarsitiodigital/gobarber-api)
+- [Web client](https://github.com/vilmarsitiodigital/gobarber-web)
+- [Mobile client](https://github.com/vilmarsitiodigital/gobarber-mobile)
 
 ## 📝 License
 
