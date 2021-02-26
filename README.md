@@ -6,7 +6,9 @@
 	<a href="https://www.linkedin.com/in/vilmarbatista/" target="_blank" rel="noopener noreferrer">
 		<img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Vilmar&color=%23FF9000">
 	</a>
-	<a href="https://github.com/vilmarsitiodigital/gobarber/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/gobarber?color=%23FF9000></a>
+	<a href="https://github.com/vilmarsitiodigital/gobarber/blob/main/LICENSE">
+		<img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/gobarber?color=%23FF9000">
+	</a>
 </p>
 
 <img alt="Mockup" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1614283587/Development/GoBarber/mockup_ocggit_wukilg.png">
